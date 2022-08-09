@@ -1,0 +1,927 @@
+01c263e938d913d3cc36958
+
+Package: lib32stdc++-10-dev-mips64r6el-cross
+Architecture: all
+Version: 10.3.0-1ubuntu1~20.04cross1
+Built-Using: gcc-10 (= 10.3.0-1ubuntu1~20.04)
+Priority: optional
+Section: universe/devel
+Source: gcc-10-cross-mipsen (2+c1ubuntu1.2)
+Origin: Ubuntu
+Maintainer: Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian GCC Maintainers <debian-gcc@lists.debian.org>
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Installed-Size: 12580
+Depends: gcc-10-cross-base-mipsen (= 10.3.0-1ubuntu1~20.04cross1), lib32gcc-10-dev-mips64r6el-cross (= 10.3.0-1ubuntu1~20.04cross1), lib32stdc++6-mips64r6el-cross (>= 10.3.0-1ubuntu1~20.04cross1), libstdc++-10-dev-mips64r6el-cross (= 10.3.0-1ubuntu1~20.04cross1)
+Filename: pool/universe/g/gcc-10-cross-mipsen/lib32stdc++-10-dev-mips64r6el-cross_10.3.0-1ubuntu1~20.04cross1_all.deb
+Size: 872708
+MD5sum: f2e4f64e9ad10aa8524b8c37d75d30b7
+SHA1: 2e5ac2897d6d75ff082595f435dfc3c979154bdc
+SHA256: 09aed365720d909545e99010d31db8ad557a63d90f896627077ecd159223e559
+SHA512: 2953471d61e339f2c599b2d2e5efc5757fb5c2f458e4c801de0ea45b2e612d05b0747b9fd912b08a0a644c4e98b1ceda04d5b39fd766b71e387fef929e1bab1b
+Homepage: http://gcc.gnu.org/
+Description: GNU Standard C++ Library v3 (development files) (mips64r6el
+Description-md5: c543e1ccaf1568ad186344f04b6c705d
+
+Package: lib32stdc++-10-dev-ppc64-cross
+Architecture: all
+Version: 10.2.0-5ubuntu1~20.04cross1
+Built-Using: gcc-10 (= 10.2.0-5ubuntu1~20.04)
+Priority: optional
+Section: universe/devel
+Source: gcc-10-cross-ports (5ubuntu2)
+Origin: Ubuntu
+Maintainer: Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian GCC Maintainers <debian-gcc@lists.debian.org>
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Installed-Size: 10731
+Depends: gcc-10-cross-base-ports (= 10.2.0-5ubuntu1~20.04cross1), lib32gcc-10-dev-ppc64-cross (= 10.2.0-5ubuntu1~20.04cross1), lib32stdc++6-ppc64-cross (>= 10.2.0-5ubuntu1~20.04cross1), libstdc++-10-dev-ppc64-cross (= 10.2.0-5ubuntu1~20.04cross1)
+Filename: pool/universe/g/gcc-10-cross-ports/lib32stdc++-10-dev-ppc64-cross_10.2.0-5ubuntu1~20.04cross1_all.deb
+Size: 677632
+MD5sum: 69e2aceb6efc594dc4aa228fc1dec5aa
+SHA1: 0ba8bbf8fafce71b7bb3aaf2a97c900bbe74ecde
+SHA256: ae92265bf7e478522e3476a6f28cfe836085646461841c9b8686ee483e8f9d71
+SHA512: 3a94673cc114b9a0f7e7e2f6df6e58f0299c752b38060443e89b7bae66eba0b077d781fd0e79a9b44240031e0a28a5a8f852a289529ecd432a134c7c533f18fd
+Homepage: http://gcc.gnu.org/
+Description: GNU Standard C++ Library v3 (development files) (ppc64
+Description-md5: c5957f6fc510d3c23449a1788b577395
+
+Package: lib32stdc++-10-dev-ppc64-cross
+Architecture: all
+Version: 10.3.0-1ubuntu1~20.04cross1
+Built-Using: gcc-10 (= 10.3.0-1ubuntu1~20.04)
+Priority: optional
+Section: universe/devel
+Source: gcc-10-cross-ports (5ubuntu3)
+Origin: Ubuntu
+Maintainer: Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian GCC Maintainers <debian-gcc@lists.debian.org>
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Installed-Size: 10754
+Depends: gcc-10-cross-base-ports (= 10.3.0-1ubuntu1~20.04cross1), lib32gcc-10-dev-ppc64-cross (= 10.3.0-1ubuntu1~20.04cross1), lib32stdc++6-ppc64-cross (>= 10.3.0-1ubuntu1~20.04cross1), libstdc++-10-dev-ppc64-cross (= 10.3.0-1ubuntu1~20.04cross1)
+Filename: pool/universe/g/gcc-10-cross-ports/lib32stdc++-10-dev-ppc64-cross_10.3.0-1ubuntu1~20.04cross1_all.deb
+Size: 679392
+MD5sum: fe01881004d58712859fdbff221cf8fa
+SHA1: 808a46d8d1e483228606f5c4d17f3b94322cc8e0
+SHA256: f564f4cb559f6c55fe3947e2290709c00db51466044a005ff7c7505028d71a1b
+SHA512: 3369df6040ecab79dad1062c3264df8ad6c5f793b1a051b74495809c8e30024699c3e394f7a057bd05a4623cd858b62267f7ad0f58891180bf6a4257f158557d
+Homepage: http://gcc.gnu.org/
+Description: GNU Standard C++ Library v3 (development files) (ppc64
+Description-md5: c5957f6fc510d3c23449a1788b577395
+
+Package: lib32stdc++-10-dev-s390x-cross
+Architecture: all
+Version: 10.3.0-1ubuntu1~20.04cross1
+Built-Using: gcc-10 (= 10.3.0-1ubuntu1~20.04)
+Priority: optional
+Section: universe/devel
+Source: gcc-10-cross (6ubuntu4)
+Origin: Ubuntu
+Maintainer: Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian GCC Maintainers <debian-gcc@lists.debian.org>
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Installed-Size: 9999
+Depends: gcc-10-cross-base (>= 10.3.0-1ubuntu1~20.04), lib32gcc-10-dev-s390x-cross (= 10.3.0-1ubuntu1~20.04cross1), lib32stdc++6-s390x-cross (>= 10.3.0-1ubuntu1~20.04cross1), libstdc++-10-dev-s390x-cross (= 10.3.0-1ubuntu1~20.04cross1)
+Filename: pool/universe/g/gcc-10-cross/lib32stdc++-10-dev-s390x-cross_10.3.0-1ubuntu1~20.04cross1_all.deb
+Size: 638020
+MD5sum: 8931bc5e21c5c74fe0c2b8ffacd86c03
+SHA1: 601f79f59723f620bcc18299a95f762545beeb85
+SHA256: 0f7b51a9b2c82baaadc451ee96ac7ac4eb97a4bf4a7077e6bf49232fbc240d78
+SHA512: 2b36ba74253f9dce3d140a6b2d176b12f199014ddb8b0ba591b82ebc8bc8be33808eca042661c179b4fb94d5fa0f380a6ced52360baef073d94caabd1767c920
+Homepage: http://gcc.gnu.org/
+Description: GNU Standard C++ Library v3 (development files) (s390x
+Description-md5: 05f063371e7098e1cd64303025c6dbcc
+
+Package: lib32stdc++-10-dev-sparc64-cross
+Architecture: all
+Version: 10.2.0-5ubuntu1~20.04cross1
+Built-Using: gcc-10 (= 10.2.0-5ubuntu1~20.04)
+Priority: optional
+Section: universe/devel
+Source: gcc-10-cross-ports (5ubuntu2)
+Origin: Ubuntu
+Maintainer: Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian GCC Maintainers <debian-gcc@lists.debian.org>
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Installed-Size: 10405
+Depends: gcc-10-cross-base-ports (= 10.2.0-5ubuntu1~20.04cross1), lib32gcc-10-dev-sparc64-cross (= 10.2.0-5ubuntu1~20.04cross1), lib32stdc++6-sparc64-cross (>= 10.2.0-5ubuntu1~20.04cross1), libstdc++-10-dev-sparc64-cross (= 10.2.0-5ubuntu1~20.04cross1)
+Filename: pool/universe/g/gcc-10-cross-ports/lib32stdc++-10-dev-sparc64-cross_10.2.0-5ubuntu1~20.04cross1_all.deb
+Size: 610304
+MD5sum: 74052aec7a06aae92c4945506825efbc
+SHA1: 1564431585f8e9b08dee249e3defbb58874dd930
+SHA256: cd9fe835b253fbc87fd68935c86ce1df773b3d84f9cee5de4ebc2d3229daa382
+SHA512: 2e9ca30c3d812ac8fd30618078ade25c371e552d9d9d8218e93ccdc29e736b0db5a39be88df3a2bc5be7615ba1b209cc13bb755785e0d6e4f41222a3d1320d5c
+Homepage: http://gcc.gnu.org/
+Description: GNU Standard C++ Library v3 (development files) (sparc64
+Description-md5: 45d135f3eb790ec58aba07e62982d0a4
+
+Package: lib32stdc++-10-dev-sparc64-cross
+Architecture: all
+Version: 10.3.0-1ubuntu1~20.04cross1
+Built-Using: gcc-10 (= 10.3.0-1ubuntu1~20.04)
+Priority: optional
+Section: universe/devel
+Source: gcc-10-cross-ports (5ubuntu3)
+Origin: Ubuntu
+Maintainer: Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian GCC Maintainers <debian-gcc@lists.debian.org>
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Installed-Size: 10433
+Depends: gcc-10-cross-base-ports (= 10.3.0-1ubuntu1~20.04cross1), lib32gcc-10-dev-sparc64-cross (= 10.3.0-1ubuntu1~20.04cross1), lib32stdc++6-sparc64-cross (>= 10.3.0-1ubuntu1~20.04cross1), libstdc++-10-dev-sparc64-cross (= 10.3.0-1ubuntu1~20.04cross1)
+Filename: pool/universe/g/gcc-10-cross-ports/lib32stdc++-10-dev-sparc64-cross_10.3.0-1ubuntu1~20.04cross1_all.deb
+Size: 609552
+MD5sum: 7de25f4c66bf6f658f135105de7671d5
+SHA1: dc4a812a4c9112bcd2b1386318d3deff9b8780cd
+SHA256: cbcd6391fc9ad73103b03d3d0dd73fc0fcc7c9204819233f4f6c59f7e5c0a8ce
+SHA512: ad7bd7e36725dacad4d3288fc276abbc4ab58faf600cafe0395e7e1a9ec25da5a69ced7b626730694b7fc6dd5c47a6874214d28fafe6794256cc5203a1acca86
+Homepage: http://gcc.gnu.org/
+Description: GNU Standard C++ Library v3 (development files) (sparc64
+Description-md5: 45d135f3eb790ec58aba07e62982d0a4
+
+Package: lib32stdc++-10-dev-x32-cross
+Architecture: all
+Version: 10.2.0-5ubuntu1~20.04cross1
+Built-Using: gcc-10 (= 10.2.0-5ubuntu1~20.04)
+Priority: optional
+Section: universe/devel
+Source: gcc-10-cross-ports (5ubuntu2)
+Origin: Ubuntu
+Maintainer: Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian GCC Maintainers <debian-gcc@lists.debian.org>
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Installed-Size: 10237
+Depends: gcc-10-cross-base-ports (= 10.2.0-5ubuntu1~20.04cross1), lib32gcc-10-dev-x32-cross (= 10.2.0-5ubuntu1~20.04cross1), lib32stdc++6-x32-cross (>= 10.2.0-5ubuntu1~20.04cross1), libstdc++-10-dev-x32-cross (= 10.2.0-5ubuntu1~20.04cross1)
+Filename: pool/universe/g/gcc-10-cross-ports/lib32stdc++-10-dev-x32-cross_10.2.0-5ubuntu1~20.04cross1_all.deb
+Size: 731524
+MD5sum: 3c486db891933237f97b34d7b3a9bcb1
+SHA1: 9169002a3a66c0d6b9d42c6987a4b3cc36e205aa
+SHA256: 6f3edf181db001d5a05b9435337450efb4da457c5eacc0fbef67ce93ef5dab06
+SHA512: c3e30b6318449eabd18cc0776cda4b467c3c9bffe9d56fb3024fe644b8c7155109122168db49504693db0006201ea5ccb2e295e1cd840ead78170b35d8da45f9
+Homepage: http://gcc.gnu.org/
+Description: GNU Standard C++ Library v3 (development files) (x32
+Description-md5: f522eb0378021b204060848ca71a323b
+
+Package: lib32stdc++-10-dev-x32-cross
+Architecture: all
+Version: 10.3.0-1ubuntu1~20.04cross1
+Built-Using: gcc-10 (= 10.3.0-1ubuntu1~20.04)
+Priority: optional
+Section: universe/devel
+Source: gcc-10-cross-ports (5ubuntu3)
+Origin: Ubuntu
+Maintainer: Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian GCC Maintainers <debian-gcc@lists.debian.org>
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Installed-Size: 10257
+Depends: gcc-10-cross-base-ports (= 10.3.0-1ubuntu1~20.04cross1), lib32gcc-10-dev-x32-cross (= 10.3.0-1ubuntu1~20.04cross1), lib32stdc++6-x32-cross (>= 10.3.0-1ubuntu1~20.04cross1), libstdc++-10-dev-x32-cross (= 10.3.0-1ubuntu1~20.04cross1)
+Filename: pool/universe/g/gcc-10-cross-ports/lib32stdc++-10-dev-x32-cross_10.3.0-1ubuntu1~20.04cross1_all.deb
+Size: 729128
+MD5sum: c78d492d37395525b63f965032989d59
+SHA1: 49c0041b11cfd3df21cc0ce00f3d45d51a5316cf
+SHA256: eab6630353835a62f006d06334b3428b0e0f68d882c2228482ac1d4100a85a49
+SHA512: 2d8ce93c07b0501a7082f2b213e202a9920ebafdb74c0d7c06449af5287760418012dd624e41560959d13394028fa4a7384b659d52bf3c4c00bac937a03204d2
+Homepage: http://gcc.gnu.org/
+Description: GNU Standard C++ Library v3 (development files) (x32
+Description-md5: f522eb0378021b204060848ca71a323b
+
+Package: lib32stdc++-9-dev-amd64-cross
+Architecture: all
+Version: 9.3.0-17ubuntu1~20.04cross2
+Built-Using: gcc-9 (= 9.3.0-17ubuntu1~20.04)
+Priority: optional
+Section: universe/devel
+Source: gcc-9-cross (21ubuntu4)
+Origin: Ubuntu
+Maintainer: Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian GCC Maintainers <debian-gcc@lists.debian.org>
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Installed-Size: 10314
+Depends: gcc-9-cross-base (>= 9.3.0-17ubuntu1~20.04), lib32gcc-9-dev-amd64-cross (= 9.3.0-17ubuntu1~20.04cross2), lib32stdc++6-amd64-cross (>= 9.3.0-17ubuntu1~20.04cross2), libstdc++-9-dev-amd64-cross (= 9.3.0-17ubuntu1~20.04cross2)
+Filename: pool/universe/g/gcc-9-cross/lib32stdc++-9-dev-amd64-cross_9.3.0-17ubuntu1~20.04cross2_all.deb
+Size: 736732
+MD5sum: eb1fa93ef614608926fd8b840b9aaddd
+SHA1: 06bc3a41738bb941ffb271173d132b84abc475bf
+SHA256: 24ff1a91d25e8ac0ef0b56317388b4b5ae10057ac5ab59c24ce490162da51e18
+SHA512: f38c6a776e93eb4a22ba3624440886789aead23d37e4663214c990cb8ea2d9ee80745b128af5daada8fbbefb352a955a654c91779da2419f5fe4b306593a6fcb
+Homepage: http://gcc.gnu.org/
+Description: GNU Standard C++ Library v3 (development files) (amd64
+Description-md5: a39814a7b481eba9451c5a674a3ee774
+
+Package: lib32stdc++-9-dev-mips64-cross
+Architecture: all
+Version: 9.3.0-17ubuntu1~20.04cross1
+Built-Using: gcc-9 (= 9.3.0-17ubuntu1~20.04)
+Priority: optional
+Section: universe/devel
+Source: gcc-9-cross-mipsen (4+c2ubuntu2.1)
+Origin: Ubuntu
+Maintainer: Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian GCC Maintainers <debian-gcc@lists.debian.org>
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Installed-Size: 11010
+Depends: gcc-9-cross-base-mipsen (= 9.3.0-17ubuntu1~20.04cross1), lib32gcc-9-dev-mips64-cross (= 9.3.0-17ubuntu1~20.04cross1), lib32stdc++6-mips64-cross (>= 9.3.0-17ubuntu1~20.04cross1), libstdc++-9-dev-mips64-cross (= 9.3.0-17ubuntu1~20.04cross1)
+Filename: pool/universe/g/gcc-9-cross-mipsen/lib32stdc++-9-dev-mips64-cross_9.3.0-17ubuntu1~20.04cross1_all.deb
+Size: 692008
+MD5sum: 953db7f6f1163e4952f27de1b795769e
+SHA1: 14d66f63a1729183d52fc0009ec8ecc6987cc8ca
+SHA256: f3c1abbf0b433af596d9939c58227e888a9481e31d12a2f7a11cc4f1b984d74c
+SHA512: 5c8acda87e95b1405f4997959fa27ee6297324c644a04a53a587e9cfbe511dfc050ccb789e289156d56729bac345d6492f6967c3092313a350495e5766cdfb28
+Homepage: http://gcc.gnu.org/
+Description: GNU Standard C++ Library v3 (development files) (mips64
+Description-md5: 73bf4770ffea230b41195ed574e8691e
+
+Package: lib32stdc++-9-dev-mips64el-cross
+Architecture: all
+Version: 9.3.0-17ubuntu1~20.04cross1
+Built-Using: gcc-9 (= 9.3.0-17ubuntu1~20.04)
+Priority: optional
+Section: universe/devel
+Source: gcc-9-cross-mipsen (4+c2ubuntu2.1)
+Origin: Ubuntu
+Maintainer: Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian GCC Maintainers <debian-gcc@lists.debian.org>
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Installed-Size: 11005
+Depends: gcc-9-cross-base-mipsen (= 9.3.0-17ubuntu1~20.04cross1), lib32gcc-9-dev-mips64el-cross (= 9.3.0-17ubuntu1~20.04cross1), lib32stdc++6-mips64el-cross (>= 9.3.0-17ubuntu1~20.04cross1), libstdc++-9-dev-mips64el-cross (= 9.3.0-17ubuntu1~20.04cross1)
+Filename: pool/universe/g/gcc-9-cross-mipsen/lib32stdc++-9-dev-mips64el-cross_9.3.0-17ubuntu1~20.04cross1_all.deb
+Size: 710500
+MD5sum: b854a330639f75f976585fcdc26beda8
+SHA1: cdd9b65c49a89c7c6bfc497810dfc04f028baad4
+SHA256: 02a0bbacabbcc398b91415fef3bac1c73516136840ca18bb4174cc4181623eda
+SHA512: f120a43dba346ae2bfdca2a7b0f7ecd1cea455aca8c4ab07e19089ebd0588abffdab45b66e2a2c42bc808acfe5d5b56a5da0b1b5a97e2a7f85216150705a2457
+Homepage: http://gcc.gnu.org/
+Description: GNU Standard C++ Library v3 (development files) (mips64el
+Description-md5: 0dd34ed8c25693e5cf78ddd488acc61e
+
+Package: lib32stdc++-9-dev-mips64r6-cross
+Architecture: all
+Version: 9.3.0-17ubuntu1~20.04cross1
+Built-Using: gcc-9 (= 9.3.0-17ubuntu1~20.04)
+Priority: optional
+Section: universe/devel
+Source: gcc-9-cross-mipsen (4+c2ubuntu2.1)
+Origin: Ubuntu
+Maintainer: Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian GCC Maintainers <debian-gcc@lists.debian.org>
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Installed-Size: 12756
+Depends: gcc-9-cross-base-mipsen (= 9.3.0-17ubuntu1~20.04cross1), lib32gcc-9-dev-mips64r6-cross (= 9.3.0-17ubuntu1~20.04cross1), lib32stdc++6-mips64r6-cross (>= 9.3.0-17ubuntu1~20.04cross1), libstdc++-9-dev-mips64r6-cross (= 9.3.0-17ubuntu1~20.04cross1)
+Filename: pool/universe/g/gcc-9-cross-mipsen/lib32stdc++-9-dev-mips64r6-cross_9.3.0-17ubuntu1~20.04cross1_all.deb
+Size: 866440
+MD5sum: 5c045443feb16ee2ec5ca8b27c0261e2
+SHA1: cafab15dd89b9721f8fa6d1bad824335fa42171b
+SHA256: 2d07eb182970bcde34823d5acebf6efc53b1d4ef1d361b3cb9b4d5430af0c433
+SHA512: 1e8b7929ca1153658f68a39dea98e29fbcd64ad055b18959cf7bed53b2f1619eb559e494aa85a27840f4e180dcc2af47b616b0b3090678309a6dede4e52fd2d7
+Homepage: http://gcc.gnu.org/
+Description: GNU Standard C++ Library v3 (development files) (mips64r6
+Description-md5: 406d3a53901c263e938d913d3cc36958
+
+Package: lib32stdc++-9-dev-mips64r6el-cross
+Architecture: all
+Version: 9.3.0-17ubuntu1~20.04cross1
+Built-Using: gcc-9 (= 9.3.0-17ubuntu1~20.04)
+Priority: optional
+Section: universe/devel
+Source: gcc-9-cross-mipsen (4+c2ubuntu2.1)
+Origin: Ubuntu
+Maintainer: Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian GCC Maintainers <debian-gcc@lists.debian.org>
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Installed-Size: 12752
+Depends: gcc-9-cross-base-mipsen (= 9.3.0-17ubuntu1~20.04cross1), lib32gcc-9-dev-mips64r6el-cross (= 9.3.0-17ubuntu1~20.04cross1), lib32stdc++6-mips64r6el-cross (>= 9.3.0-17ubuntu1~20.04cross1), libstdc++-9-dev-mips64r6el-cross (= 9.3.0-17ubuntu1~20.04cross1)
+Filename: pool/universe/g/gcc-9-cross-mipsen/lib32stdc++-9-dev-mips64r6el-cross_9.3.0-17ubuntu1~20.04cross1_all.deb
+Size: 894988
+MD5sum: 78c39e1f77e6cb68c8c47eeac35019bc
+SHA1: 903cf9633ce17e7f5f89620ff0ce131af63ef889
+SHA256: 201f76b2020a5d0cb88e29438595309b0322f179303f1dc5c72f8cb2a5f76a0a
+SHA512: 9b2f6e513daf6980da39eba09c1fcb8dd26f8799722c9582ef1f0cf144975797d7f15f16c99367632b356feb43763f06054d27a24659cc0f3827a9d4ff850d55
+Homepage: http://gcc.gnu.org/
+Description: GNU Standard C++ Library v3 (development files) (mips64r6el
+Description-md5: c543e1ccaf1568ad186344f04b6c705d
+
+Package: lib32stdc++-9-dev-ppc64-cross
+Architecture: all
+Version: 9.3.0-17ubuntu1~20.04cross1
+Built-Using: gcc-9 (= 9.3.0-17ubuntu1~20.04)
+Priority: optional
+Section: universe/devel
+Source: gcc-9-cross-ports (18ubuntu4)
+Origin: Ubuntu
+Maintainer: Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian GCC Maintainers <debian-gcc@lists.debian.org>
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Installed-Size: 10793
+Depends: gcc-9-cross-base-ports (= 9.3.0-17ubuntu1~20.04cross1), lib32gcc-9-dev-ppc64-cross (= 9.3.0-17ubuntu1~20.04cross1), lib32stdc++6-ppc64-cross (>= 9.3.0-17ubuntu1~20.04cross1), libstdc++-9-dev-ppc64-cross (= 9.3.0-17ubuntu1~20.04cross1)
+Filename: pool/universe/g/gcc-9-cross-ports/lib32stdc++-9-dev-ppc64-cross_9.3.0-17ubuntu1~20.04cross1_all.deb
+Size: 686564
+MD5sum: e6eb471fc3c51356f9a274d708f6f5cd
+SHA1: 562833b1cd6adb135687252162bb0a90c4a0e786
+SHA256: c71e64d117676daa54a83b9f901dc6369baa64d50e422cc75606bb8d7b84fbfd
+SHA512: 18150ef7c08b5a82059ffa2c1cf3d2bb54246d6221d77c3950a49d499e98782c91bb40a428e9ceb6192a917e561706b4544798641c0639b94020ef6d08c4d96a
+Homepage: http://gcc.gnu.org/
+Description: GNU Standard C++ Library v3 (development files) (ppc64
+Description-md5: c5957f6fc510d3c23449a1788b577395
+
+Package: lib32stdc++-9-dev-s390x-cross
+Architecture: all
+Version: 9.3.0-17ubuntu1~20.04cross2
+Built-Using: gcc-9 (= 9.3.0-17ubuntu1~20.04)
+Priority: optional
+Section: universe/devel
+Source: gcc-9-cross (21ubuntu4)
+Origin: Ubuntu
+Maintainer: Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian GCC Maintainers <debian-gcc@lists.debian.org>
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Installed-Size: 10066
+Depends: gcc-9-cross-base (>= 9.3.0-17ubuntu1~20.04), lib32gcc-9-dev-s390x-cross (= 9.3.0-17ubuntu1~20.04cross2), lib32stdc++6-s390x-cross (>= 9.3.0-17ubuntu1~20.04cross2), libstdc++-9-dev-s390x-cross (= 9.3.0-17ubuntu1~20.04cross2)
+Filename: pool/universe/g/gcc-9-cross/lib32stdc++-9-dev-s390x-cross_9.3.0-17ubuntu1~20.04cross2_all.deb
+Size: 641884
+MD5sum: f243f745b8993a0f16d51c15a1ff7cf2
+SHA1: 4666bff687b6118ae3cb832831f3e946541f2f37
+SHA256: 1e82060eba3a81481be568a2ecef3643a2982fd510859590c1c60f8467e36c92
+SHA512: 4fd8fea5e8651d930879e5e6bf721ddbc6a91046517b71458af6bdaf4fa3dddef722f05e33e6f7a6233209bc72b2d415900ab3ead1018b643a9fcf62dfacd828
+Homepage: http://gcc.gnu.org/
+Description: GNU Standard C++ Library v3 (development files) (s390x
+Description-md5: 05f063371e7098e1cd64303025c6dbcc
+
+Package: lib32stdc++-9-dev-sparc64-cross
+Architecture: all
+Version: 9.3.0-17ubuntu1~20.04cross1
+Built-Using: gcc-9 (= 9.3.0-17ubuntu1~20.04)
+Priority: optional
+Section: universe/devel
+Source: gcc-9-cross-ports (18ubuntu4)
+Origin: Ubuntu
+Maintainer: Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian GCC Maintainers <debian-gcc@lists.debian.org>
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Installed-Size: 10560
+Depends: gcc-9-cross-base-ports (= 9.3.0-17ubuntu1~20.04cross1), lib32gcc-9-dev-sparc64-cross (= 9.3.0-17ubuntu1~20.04cross1), lib32stdc++6-sparc64-cross (>= 9.3.0-17ubuntu1~20.04cross1), libstdc++-9-dev-sparc64-cross (= 9.3.0-17ubuntu1~20.04cross1)
+Filename: pool/universe/g/gcc-9-cross-ports/lib32stdc++-9-dev-sparc64-cross_9.3.0-17ubuntu1~20.04cross1_all.deb
+Size: 621460
+MD5sum: ef8ff1bc6ce0c2af87ae56d419770891
+SHA1: 8b94a8f348d1c54ce8c72c28bfb173c074d5cae0
+SHA256: c4aaf5224ef3b7327fc18cb3795d2a148b68e1b1def51e3114af9216111eb1e1
+SHA512: a63794cbe6f200613681c7d4ceaf0300332fbfb93ce91c87fbdf9a0838f8dbeab1e104512662ef8b9833f3abc9c0a0ea72696bee1815c015767252af88c758c4
+Homepage: http://gcc.gnu.org/
+Description: GNU Standard C++ Library v3 (development files) (sparc64
+Description-md5: 45d135f3eb790ec58aba07e62982d0a4
+
+Package: lib32stdc++-9-dev-x32-cross
+Architecture: all
+Version: 9.3.0-17ubuntu1~20.04cross1
+Built-Using: gcc-9 (= 9.3.0-17ubuntu1~20.04)
+Priority: optional
+Section: universe/devel
+Source: gcc-9-cross-ports (18ubuntu4)
+Origin: Ubuntu
+Maintainer: Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian GCC Maintainers <debian-gcc@lists.debian.org>
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Installed-Size: 10326
+Depends: gcc-9-cross-base-ports (= 9.3.0-17ubuntu1~20.04cross1), lib32gcc-9-dev-x32-cross (= 9.3.0-17ubuntu1~20.04cross1), lib32stdc++6-x32-cross (>= 9.3.0-17ubuntu1~20.04cross1), libstdc++-9-dev-x32-cross (= 9.3.0-17ubuntu1~20.04cross1)
+Filename: pool/universe/g/gcc-9-cross-ports/lib32stdc++-9-dev-x32-cross_9.3.0-17ubuntu1~20.04cross1_all.deb
+Size: 737424
+MD5sum: bde445a2ce2b5b638303221c16a75b43
+SHA1: 4a66cdb2420f98a6ca43b03a60eea792a872fb65
+SHA256: ea52fcdb136e463ea6a1940715977d0f9f0d7efe663f10f1d412aa70378574ff
+SHA512: 193cf0ffc7197efaa5a72be6bce79bc725401a5c86052f68c74078cef62818050076e9745bda059fe907f1a188db4792ecf601ac20fa7300aaf3f990be334172
+Homepage: http://gcc.gnu.org/
+Description: GNU Standard C++ Library v3 (development files) (x32
+Description-md5: f522eb0378021b204060848ca71a323b
+
+Package: lib32stdc++6-10-dbg
+Architecture: amd64
+Version: 10.3.0-1ubuntu1~20.04
+Priority: optional
+Section: universe/debug
+Source: gcc-10
+Origin: Ubuntu
+Maintainer: Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian GCC Maintainers <debian-gcc@lists.debian.org>
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Installed-Size: 47357
+Depends: gcc-10-base (= 10.3.0-1ubuntu1~20.04), lib32stdc++6 (>= 10.3.0-1ubuntu1~20.04), libstdc++-10-dev (= 10.3.0-1ubuntu1~20.04), lib32gcc-s1 (>= 4.2), libc6-i386 (>= 2.18)
+Conflicts: lib32stdc++6-4.0-dbg, lib32stdc++6-4.1-dbg, lib32stdc++6-4.2-dbg, lib32stdc++6-4.3-dbg, lib32stdc++6-4.4-dbg, lib32stdc++6-4.5-dbg, lib32stdc++6-4.6-dbg, lib32stdc++6-4.7-dbg, lib32stdc++6-4.8-dbg, lib32stdc++6-4.9-dbg, lib32stdc++6-5-dbg, lib32stdc++6-6-dbg, lib32stdc++6-7-dbg, lib32stdc++6-8-dbg, lib32stdc++6-9-dbg, lib32stdc++6-dbg
+Filename: pool/universe/g/gcc-10/lib32stdc++6-10-dbg_10.3.0-1ubuntu1~20.04_amd64.deb
+Size: 7236012
+MD5sum: 875dd0e40331e5051fc1e3076b86ba29
+SHA1: ce089d470902ed369ab738a5a4ce038d911b0583
+SHA256: d6439857289a892656bb945019b5461f3140c8ca8010d372a629d02903a908e4
+SHA512: 0b7d2bd911a3759e536de5f0d8dd695de6a740cbfe36e56cba7295f076e2805ef57872cc141de7db742b42290b3d051acc2453a04f9fa4bc9e1ae41c8e7614f7
+Homepage: http://gcc.gnu.org/
+Description: GNU Standard C++ Library v3 (debug build)
+Description-md5: 2c454c0f0591e215b1f3b1791f3e7459
+
+Package: lib32stdc++6-10-dbg-amd64-cross
+Architecture: all
+Version: 10.3.0-1ubuntu1~20.04cross1
+Built-Using: gcc-10 (= 10.3.0-1ubuntu1~20.04)
+Priority: optional
+Section: universe/debug
+Source: gcc-10-cross (6ubuntu4)
+Origin: Ubuntu
+Maintainer: Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian GCC Maintainers <debian-gcc@lists.debian.org>
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Installed-Size: 47441
+Provides: lib32stdc++6-dbg-amd64-dcv1
+Depends: gcc-10-cross-base (>= 10.3.0-1ubuntu1~20.04), lib32stdc++6-amd64-cross (>= 10.3.0-1ubuntu1~20.04cross1), libstdc++-10-dev-amd64-cross (= 10.3.0-1ubuntu1~20.04cross1), lib32gcc-s1-amd64-cross (>= 4.2), libc6-i386-amd64-cross (>= 2.31)
+Conflicts: lib32stdc++6-4.0-dbg-amd64-cross, lib32stdc++6-4.1-dbg-amd64-cross, lib32stdc++6-4.2-dbg-amd64-cross, lib32stdc++6-4.3-dbg-amd64-cross, lib32stdc++6-4.4-dbg-amd64-cross, lib32stdc++6-4.5-dbg-amd64-cross, lib32stdc++6-4.6-dbg-amd64-cross, lib32stdc++6-4.7-dbg-amd64-cross, lib32stdc++6-4.8-dbg-amd64-cross, lib32stdc++6-4.9-dbg-amd64-cross, lib32stdc++6-5-dbg-amd64-cross, lib32stdc++6-6-dbg-amd64-cross, lib32stdc++6-7-dbg-amd64-cross, lib32stdc++6-8-dbg-amd64-cross, lib32stdc++6-9-dbg-amd64-cross, lib32stdc++6-dbg-amd64-cross
+Filename: pool/universe/g/gcc-10-cross/lib32stdc++6-10-dbg-amd64-cross_10.3.0-1ubuntu1~20.04cross1_all.deb
+Size: 7237204
+MD5sum: e4fe8ec634f9f74301a2c385aaa33d97
+SHA1: 74fb627cbad3ffee5b03a7dd5c880fa66c54dd30
+SHA256: bad5d99e4687e49a8da82bb29d5dbd1072414606a4581d03954f7f9e26301089
+SHA512: d64e0f54380a207b2bda56d3789847d203f512afb42c455515988182073a6ce37ff5518609c7c179e6a3965bf8758e9fe223fe94c820a86d227c402c4a26d6c1
+Homepage: http://gcc.gnu.org/
+Description: GNU Standard C++ Library v3 (debug build) (amd64)
+Description-md5: 07c21f492e3f02130fb6a3185fa7511a
+
+Package: lib32stdc++6-10-dbg-mips64-cross
+Architecture: all
+Version: 10.3.0-1ubuntu1~20.04cross1
+Built-Using: gcc-10 (= 10.3.0-1ubuntu1~20.04)
+Priority: optional
+Section: universe/debug
+Source: gcc-10-cross-mipsen (2+c1ubuntu1.2)
+Origin: Ubuntu
+Maintainer: Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian GCC Maintainers <debian-gcc@lists.debian.org>
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Installed-Size: 50928
+Provides: lib32stdc++6-dbg-mips64-dcv1
+Depends: gcc-10-cross-base-mipsen (= 10.3.0-1ubuntu1~20.04cross1), lib32stdc++6-mips64-cross (>= 10.3.0-1ubuntu1~20.04cross1), libstdc++-10-dev-mips64-cross (= 10.3.0-1ubuntu1~20.04cross1), lib32gcc-s1-mips64-cross (>= 4.2), libc6-mips32-mips64-cross (>= 2.30)
+Conflicts: lib32stdc++6-4.0-dbg-mips64-cross, lib32stdc++6-4.1-dbg-mips64-cross, lib32stdc++6-4.2-dbg-mips64-cross, lib32stdc++6-4.3-dbg-mips64-cross, lib32stdc++6-4.4-dbg-mips64-cross, lib32stdc++6-4.5-dbg-mips64-cross, lib32stdc++6-4.6-dbg-mips64-cross, lib32stdc++6-4.7-dbg-mips64-cross, lib32stdc++6-4.8-dbg-mips64-cross, lib32stdc++6-4.9-dbg-mips64-cross, lib32stdc++6-5-dbg-mips64-cross, lib32stdc++6-6-dbg-mips64-cross, lib32stdc++6-7-dbg-mips64-cross, lib32stdc++6-8-dbg-mips64-cross, lib32stdc++6-9-dbg-mips64-cross, lib32stdc++6-dbg-mips64-cross
+Filename: pool/universe/g/gcc-10-cross-mipsen/lib32stdc++6-10-dbg-mips64-cross_10.3.0-1ubuntu1~20.04cross1_all.deb
+Size: 7209472
+MD5sum: caffc3276d9ce3d3a5b046c538bc3c5a
+SHA1: 37024c2e3ed9f8611f6771f02ac07b58133c2f59
+SHA256: 668260187194be689a4932ac4abe89eb6be8267c91e7bea826007a7b4f98beb5
+SHA512: 51e7182dd606d567c0aeec32093c3443f4be78d3abdb1dbea0d5d42fa5397242555273b8d0c1f16f439b610d7694487551115534bdf9102f42ecc675cd6c5a49
+Homepage: http://gcc.gnu.org/
+Description: GNU Standard C++ Library v3 (debug build) (mips64)
+Description-md5: 282f559a9454c17f9bb24b2282fce503
+
+Package: lib32stdc++6-10-dbg-mips64el-cross
+Architecture: all
+Version: 10.3.0-1ubuntu1~20.04cross1
+Built-Using: gcc-10 (= 10.3.0-1ubuntu1~20.04)
+Priority: optional
+Section: universe/debug
+Source: gcc-10-cross-mipsen (2+c1ubuntu1.2)
+Origin: Ubuntu
+Maintainer: Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian GCC Maintainers <debian-gcc@lists.debian.org>
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Installed-Size: 50960
+Provides: lib32stdc++6-dbg-mips64el-dcv1
+Depends: gcc-10-cross-base-mipsen (= 10.3.0-1ubuntu1~20.04cross1), lib32stdc++6-mips64el-cross (>= 10.3.0-1ubuntu1~20.04cross1), libstdc++-10-dev-mips64el-cross (= 10.3.0-1ubuntu1~20.04cross1), lib32gcc-s1-mips64el-cross (>= 4.2), libc6-mips32-mips64el-cross (>= 2.30)
+Conflicts: lib32stdc++6-4.0-dbg-mips64el-cross, lib32stdc++6-4.1-dbg-mips64el-cross, lib32stdc++6-4.2-dbg-mips64el-cross, lib32stdc++6-4.3-dbg-mips64el-cross, lib32stdc++6-4.4-dbg-mips64el-cross, lib32stdc++6-4.5-dbg-mips64el-cross, lib32stdc++6-4.6-dbg-mips64el-cross, lib32stdc++6-4.7-dbg-mips64el-cross, lib32stdc++6-4.8-dbg-mips64el-cross, lib32stdc++6-4.9-dbg-mips64el-cross, lib32stdc++6-5-dbg-mips64el-cross, lib32stdc++6-6-dbg-mips64el-cross, lib32stdc++6-7-dbg-mips64el-cross, lib32stdc++6-8-dbg-mips64el-cross, lib32stdc++6-9-dbg-mips64el-cross, lib32stdc++6-dbg-mips64el-cross
+Filename: pool/universe/g/gcc-10-cross-mipsen/lib32stdc++6-10-dbg-mips64el-cross_10.3.0-1ubuntu1~20.04cross1_all.deb
+Size: 7472728
+MD5sum: e83b34282b7fd6379b6cc2362a022698
+SHA1: 9e68dd1ac6215b5f41d2833ffda8823a649733b1
+SHA256: fd83d94051d8338cf2f06b4671333151f62445a85140dc95840ba6a44ee561ee
+SHA512: 9bda99fbcd9d7580fad418a899474784f2e622e909cb28b0fda3554953a05c93bd6e4c1c54e9290c881050dfd6d7de95b0bc5cfb344e1e1295139a4c1b7fb5a2
+Homepage: http://gcc.gnu.org/
+Description: GNU Standard C++ Library v3 (debug build) (mips64el)
+Description-md5: f06dfcf951ffac7c0df17a21f605fdfe
+
+Package: lib32stdc++6-10-dbg-mips64r6-cross
+Architecture: all
+Version: 10.3.0-1ubuntu1~20.04cross1
+Built-Using: gcc-10 (= 10.3.0-1ubuntu1~20.04)
+Priority: optional
+Section: universe/debug
+Source: gcc-10-cross-mipsen (2+c1ubuntu1.2)
+Origin: Ubuntu
+Maintainer: Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian GCC Maintainers <debian-gcc@lists.debian.org>
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Installed-Size: 51323
+Provides: lib32stdc++6-dbg-mips64r6-dcv1
+Depends: gcc-10-cross-base-mipsen (= 10.3.0-1ubuntu1~20.04cross1), lib32stdc++6-mips64r6-cross (>= 10.3.0-1ubuntu1~20.04cross1), libstdc++-10-dev-mips64r6-cross (= 10.3.0-1ubuntu1~20.04cross1), lib32gcc-s1-mips64r6-cross (>= 4.2), libc6-mips32-mips64r6-cross (>= 2.30)
+Conflicts: lib32stdc++6-4.0-dbg-mips64r6-cross, lib32stdc++6-4.1-dbg-mips64r6-cross, lib32stdc++6-4.2-dbg-mips64r6-cross, lib32stdc++6-4.3-dbg-mips64r6-cross, lib32stdc++6-4.4-dbg-mips64r6-cross, lib32stdc++6-4.5-dbg-mips64r6-cross, lib32stdc++6-4.6-dbg-mips64r6-cross, lib32stdc++6-4.7-dbg-mips64r6-cross, lib32stdc++6-4.8-dbg-mips64r6-cross, lib32stdc++6-4.9-dbg-mips64r6-cross, lib32stdc++6-5-dbg-mips64r6-cross, lib32stdc++6-6-dbg-mips64r6-cross, lib32stdc++6-7-dbg-mips64r6-cross, lib32stdc++6-8-dbg-mips64r6-cross, lib32stdc++6-9-dbg-mips64r6-cross, lib32stdc++6-dbg-mips64r6-cross
+Filename: pool/universe/g/gcc-10-cross-mipsen/lib32stdc++6-10-dbg-mips64r6-cross_10.3.0-1ubuntu1~20.04cross1_all.deb
+Size: 7377996
+MD5sum: ae6573c424cc534a3d627d4a94b41175
+SHA1: 23b566ed6baeb001b3f7686004eb82b3ae108378
+SHA256: 8b774399a0eeb733c9b32c098c994db84a93973a04cb55ce78a297aaae766cfc
+SHA512: f515503e4ada47e5923f69e4a3b49bdf76820a69a557f7da38b9771d1851ab97c27acd7a5b1b44358632f36485363e53440a65f8e7c00681e30dad959b096afe
+Homepage: http://gcc.gnu.org/
+Description: GNU Standard C++ Library v3 (debug build) (mips64r6)
+Description-md5: 2b0ae6666da6caf3f44a5d26e69a4097
+
+Package: lib32stdc++6-10-dbg-mips64r6el-cross
+Architecture: all
+Version: 10.3.0-1ubuntu1~20.04cross1
+Built-Using: gcc-10 (= 10.3.0-1ubuntu1~20.04)
+Priority: optional
+Section: universe/debug
+Source: gcc-10-cross-mipsen (2+c1ubuntu1.2)
+Origin: Ubuntu
+Maintainer: Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian GCC Maintainers <debian-gcc@lists.debian.org>
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Installed-Size: 51348
+Provides: lib32stdc++6-dbg-mips64r6el-dcv1
+Depends: gcc-10-cross-base-mipsen (= 10.3.0-1ubuntu1~20.04cross1), lib32stdc++6-mips64r6el-cross (>= 10.3.0-1ubuntu1~20.04cross1), libstdc++-10-dev-mips64r6el-cross (= 10.3.0-1ubuntu1~20.04cross1), lib32gcc-s1-mips64r6el-cross (>= 4.2), libc6-mips32-mips64r6el-cross (>= 2.30)
+Conflicts: lib32stdc++6-4.0-dbg-mips64r6el-cross, lib32stdc++6-4.1-dbg-mips64r6el-cross, lib32stdc++6-4.2-dbg-mips64r6el-cross, lib32stdc++6-4.3-dbg-mips64r6el-cross, lib32stdc++6-4.4-dbg-mips64r6el-cross, lib32stdc++6-4.5-dbg-mips64r6el-cross, lib32stdc++6-4.6-dbg-mips64r6el-cross, lib32stdc++6-4.7-dbg-mips64r6el-cross, lib32stdc++6-4.8-dbg-mips64r6el-cross, lib32stdc++6-4.9-dbg-mips64r6el-cross, lib32stdc++6-5-dbg-mips64r6el-cross, lib32stdc++6-6-dbg-mips64r6el-cross, lib32stdc++6-7-dbg-mips64r6el-cross, lib32stdc++6-8-dbg-mips64r6el-cross, lib32stdc++6-9-dbg-mips64r6el-cross, lib32stdc++6-dbg-mips64r6el-cross
+Filename: pool/universe/g/gcc-10-cross-mipsen/lib32stdc++6-10-dbg-mips64r6el-cross_10.3.0-1ubuntu1~20.04cross1_all.deb
+Size: 7648908
+MD5sum: 1e607eb4a768d2e8caffb77d398bff09
+SHA1: 00321e8436e0cd205065a457f744e08ec61503d7
+SHA256: 08985ba8a6c7d1fee4591f5c6e2f6222e8ba14906c017a1792813bbe43b29d64
+SHA512: 3f95f3202f1eefeb2e8db4d81d49d6e3dabf718a4408eed3f5fc4f7b6a58392ba4f07e88dff1059995da044ecdd8b1aaf164826e9ed5bb38cd783cbbe3a3275a
+Homepage: http://gcc.gnu.org/
+Description: GNU Standard C++ Library v3 (debug build) (mips64r6el)
+Description-md5: c878fbe61b0478e9f5b5990ff99d7677
+
+Package: lib32stdc++6-10-dbg-ppc64-cross
+Architecture: all
+Version: 10.2.0-5ubuntu1~20.04cross1
+Built-Using: gcc-10 (= 10.2.0-5ubuntu1~20.04)
+Priority: optional
+Section: universe/debug
+Source: gcc-10-cross-ports (5ubuntu2)
+Origin: Ubuntu
+Maintainer: Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian GCC Maintainers <debian-gcc@lists.debian.org>
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Installed-Size: 52501
+Provides: lib32stdc++6-dbg-ppc64-dcv1
+Depends: gcc-10-cross-base-ports (= 10.2.0-5ubuntu1~20.04cross1), lib32stdc++6-ppc64-cross (>= 10.2.0-5ubuntu1~20.04cross1), libstdc++-10-dev-ppc64-cross (= 10.2.0-5ubuntu1~20.04cross1), lib32gcc-s1-ppc64-cross (>= 4.2), libc6-powerpc-ppc64-cross (>= 2.31)
+Conflicts: lib32stdc++6-4.0-dbg-ppc64-cross, lib32stdc++6-4.1-dbg-ppc64-cross, lib32stdc++6-4.2-dbg-ppc64-cross, lib32stdc++6-4.3-dbg-ppc64-cross, lib32stdc++6-4.4-dbg-ppc64-cross, lib32stdc++6-4.5-dbg-ppc64-cross, lib32stdc++6-4.6-dbg-ppc64-cross, lib32stdc++6-4.7-dbg-ppc64-cross, lib32stdc++6-4.8-dbg-ppc64-cross, lib32stdc++6-4.9-dbg-ppc64-cross, lib32stdc++6-5-dbg-ppc64-cross, lib32stdc++6-6-dbg-ppc64-cross, lib32stdc++6-7-dbg-ppc64-cross, lib32stdc++6-8-dbg-ppc64-cross, lib32stdc++6-9-dbg-ppc64-cross, lib32stdc++6-dbg-ppc64-cross
+Filename: pool/universe/g/gcc-10-cross-ports/lib32stdc++6-10-dbg-ppc64-cross_10.2.0-5ubuntu1~20.04cross1_all.deb
+Size: 7504500
+MD5sum: 04808fcc6bf11e912147f1517740ff6d
+SHA1: db0aeba7ab8d15a87f50f241d32b89670174e6c3
+SHA256: 1fc3fe5e62dde4632f26638f29ecf7e4f622939353349cc6c2c16b3d53ac13f1
+SHA512: 2c5658927b9e7729055dccccbecd7a9b10e3cf7c6227631d8d993f40cab9336e3c0b5c9184aa6ce72bbbced6b60a2df71836d35a962ebd5b7ec45e1df6778cd3
+Homepage: http://gcc.gnu.org/
+Description: GNU Standard C++ Library v3 (debug build) (ppc64)
+Description-md5: 63ddd8f846ac247debc54f517d86639d
+
+Package: lib32stdc++6-10-dbg-ppc64-cross
+Architecture: all
+Version: 10.3.0-1ubuntu1~20.04cross1
+Built-Using: gcc-10 (= 10.3.0-1ubuntu1~20.04)
+Priority: optional
+Section: universe/debug
+Source: gcc-10-cross-ports (5ubuntu3)
+Origin: Ubuntu
+Maintainer: Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian GCC Maintainers <debian-gcc@lists.debian.org>
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Installed-Size: 52487
+Provides: lib32stdc++6-dbg-ppc64-dcv1
+Depends: gcc-10-cross-base-ports (= 10.3.0-1ubuntu1~20.04cross1), lib32stdc++6-ppc64-cross (>= 10.3.0-1ubuntu1~20.04cross1), libstdc++-10-dev-ppc64-cross (= 10.3.0-1ubuntu1~20.04cross1), lib32gcc-s1-ppc64-cross (>= 4.2), libc6-powerpc-ppc64-cross (>= 2.31)
+Conflicts: lib32stdc++6-4.0-dbg-ppc64-cross, lib32stdc++6-4.1-dbg-ppc64-cross, lib32stdc++6-4.2-dbg-ppc64-cross, lib32stdc++6-4.3-dbg-ppc64-cross, lib32stdc++6-4.4-dbg-ppc64-cross, lib32stdc++6-4.5-dbg-ppc64-cross, lib32stdc++6-4.6-dbg-ppc64-cross, lib32stdc++6-4.7-dbg-ppc64-cross, lib32stdc++6-4.8-dbg-ppc64-cross, lib32stdc++6-4.9-dbg-ppc64-cross, lib32stdc++6-5-dbg-ppc64-cross, lib32stdc++6-6-dbg-ppc64-cross, lib32stdc++6-7-dbg-ppc64-cross, lib32stdc++6-8-dbg-ppc64-cross, lib32stdc++6-9-dbg-ppc64-cross, lib32stdc++6-dbg-ppc64-cross
+Filename: pool/universe/g/gcc-10-cross-ports/lib32stdc++6-10-dbg-ppc64-cross_10.3.0-1ubuntu1~20.04cross1_all.deb
+Size: 7517288
+MD5sum: b6326863fbcf3ac7b1dbbd67174bc505
+SHA1: 23027f08827b293a486977aac48864b2a2505340
+SHA256: 1c75f2975fefc3dae0a3a578197e1fc5bed3294e10b85358c8b20de743c7fed1
+SHA512: 7dcfb5eb4658426b1f84a4112c81e9de4cc56dfdb3649c2eb0d1229deb6fb1ebf4431df5c497efc70ad2345b11b959dced24593c20606ceb92de4cc4b5e59341
+Homepage: http://gcc.gnu.org/
+Description: GNU Standard C++ Library v3 (debug build) (ppc64)
+Description-md5: 63ddd8f846ac247debc54f517d86639d
+
+Package: lib32stdc++6-10-dbg-s390x-cross
+Architecture: all
+Version: 10.3.0-1ubuntu1~20.04cross1
+Built-Using: gcc-10 (= 10.3.0-1ubuntu1~20.04)
+Priority: optional
+Section: universe/debug
+Source: gcc-10-cross (6ubuntu4)
+Origin: Ubuntu
+Maintainer: Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian GCC Maintainers <debian-gcc@lists.debian.org>
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Installed-Size: 52357
+Provides: lib32stdc++6-dbg-s390x-dcv1
+Depends: gcc-10-cross-base (>= 10.3.0-1ubuntu1~20.04), lib32stdc++6-s390x-cross (>= 10.3.0-1ubuntu1~20.04cross1), libstdc++-10-dev-s390x-cross (= 10.3.0-1ubuntu1~20.04cross1), lib32gcc-s1-s390x-cross (>= 4.2), libc6-s390-s390x-cross (>= 2.31)
+Conflicts: lib32stdc++6-4.0-dbg-s390x-cross, lib32stdc++6-4.1-dbg-s390x-cross, lib32stdc++6-4.2-dbg-s390x-cross, lib32stdc++6-4.3-dbg-s390x-cross, lib32stdc++6-4.4-dbg-s390x-cross, lib32stdc++6-4.5-dbg-s390x-cross, lib32stdc++6-4.6-dbg-s390x-cross, lib32stdc++6-4.7-dbg-s390x-cross, lib32stdc++6-4.8-dbg-s390x-cross, lib32stdc++6-4.9-dbg-s390x-cross, lib32stdc++6-5-dbg-s390x-cross, lib32stdc++6-6-dbg-s390x-cross, lib32stdc++6-7-dbg-s390x-cross, lib32stdc++6-8-dbg-s390x-cross, lib32stdc++6-9-dbg-s390x-cross, lib32stdc++6-dbg-s390x-cross
+Filename: pool/universe/g/gcc-10-cross/lib32stdc++6-10-dbg-s390x-cross_10.3.0-1ubuntu1~20.04cross1_all.deb
+Size: 7813796
+MD5sum: 40f8455214d1f67298e75f2a3363b1eb
+SHA1: a297524776505bdb16c18fbec82a2911c325dc78
+SHA256: 83d9e91920ffb75d833777444776b362feb66a2fbe4384cecc07fcf47d65a03d
+SHA512: ba1aa7b286e2e07acb448371f6b63c4eeb55c68c0170ba1145f5d00b7f151b8a26374c932b31410206e472481c9456fa9d052efaf91c49d0cf4ef99b6182ad75
+Homepage: http://gcc.gnu.org/
+Description: GNU Standard C++ Library v3 (debug build) (s390x)
+Description-md5: f4f53b44d8ad2eaedde73442805cd8fb
+
+Package: lib32stdc++6-10-dbg-sparc64-cross
+Architecture: all
+Version: 10.2.0-5ubuntu1~20.04cross1
+Built-Using: gcc-10 (= 10.2.0-5ubuntu1~20.04)
+Priority: optional
+Section: universe/debug
+Source: gcc-10-cross-ports (5ubuntu2)
+Origin: Ubuntu
+Maintainer: Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian GCC Maintainers <debian-gcc@lists.debian.org>
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Installed-Size: 50683
+Provides: lib32stdc++6-dbg-sparc64-dcv1
+Depends: gcc-10-cross-base-ports (= 10.2.0-5ubuntu1~20.04cross1), lib32stdc++6-sparc64-cross (>= 10.2.0-5ubuntu1~20.04cross1), libstdc++-10-dev-sparc64-cross (= 10.2.0-5ubuntu1~20.04cross1), lib32gcc-s1-sparc64-cross (>= 4.2), libc6-sparc-sparc64-cross (>= 2.31)
+Conflicts: lib32stdc++6-4.0-dbg-sparc64-cross, lib32stdc++6-4.1-dbg-sparc64-cross, lib32stdc++6-4.2-dbg-sparc64-cross, lib32stdc++6-4.3-dbg-sparc64-cross, lib32stdc++6-4.4-dbg-sparc64-cross, lib32stdc++6-4.5-dbg-sparc64-cross, lib32stdc++6-4.6-dbg-sparc64-cross, lib32stdc++6-4.7-dbg-sparc64-cross, lib32stdc++6-4.8-dbg-sparc64-cross, lib32stdc++6-4.9-dbg-sparc64-cross, lib32stdc++6-5-dbg-sparc64-cross, lib32stdc++6-6-dbg-sparc64-cross, lib32stdc++6-7-dbg-sparc64-cross, lib32stdc++6-8-dbg-sparc64-cross, lib32stdc++6-9-dbg-sparc64-cross, lib32stdc++6-dbg-sparc64-cross
+Filename: pool/universe/g/gcc-10-cross-ports/lib32stdc++6-10-dbg-sparc64-cross_10.2.0-5ubuntu1~20.04cross1_all.deb
+Size: 7317188
+MD5sum: 3a48168251896148a3696c1b8efb8038
+SHA1: 306c385741789b694965871e2995835ab7588524
+SHA256: 59e59a78944a847422ba909f79839e371073207e2d3399ec131e336ad5d11a19
+SHA512: e0f57943827112dfb22f7280bc4129f831cf7ce0d332b52c8ae003b0b627ca80f6b400f33ea839d44f346f398e6bc8391e4f405bb281186b6ca5ce8681d8732c
+Homepage: http://gcc.gnu.org/
+Description: GNU Standard C++ Library v3 (debug build) (sparc64)
+Description-md5: 34f72c42d2a8cc980ba5b3df641c0cf3
+
+Package: lib32stdc++6-10-dbg-sparc64-cross
+Architecture: all
+Version: 10.3.0-1ubuntu1~20.04cross1
+Built-Using: gcc-10 (= 10.3.0-1ubuntu1~20.04)
+Priority: optional
+Section: universe/debug
+Source: gcc-10-cross-ports (5ubuntu3)
+Origin: Ubuntu
+Maintainer: Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian GCC Maintainers <debian-gcc@lists.debian.org>
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Installed-Size: 50669
+Provides: lib32stdc++6-dbg-sparc64-dcv1
+Depends: gcc-10-cross-base-ports (= 10.3.0-1ubuntu1~20.04cross1), lib32stdc++6-sparc64-cross (>= 10.3.0-1ubuntu1~20.04cross1), libstdc++-10-dev-sparc64-cross (= 10.3.0-1ubuntu1~20.04cross1), lib32gcc-s1-sparc64-cross (>= 4.2), libc6-sparc-sparc64-cross (>= 2.31)
+Conflicts: lib32stdc++6-4.0-dbg-sparc64-cross, lib32stdc++6-4.1-dbg-sparc64-cross, lib32stdc++6-4.2-dbg-sparc64-cross, lib32stdc++6-4.3-dbg-sparc64-cross, lib32stdc++6-4.4-dbg-sparc64-cross, lib32stdc++6-4.5-dbg-sparc64-cross, lib32stdc++6-4.6-dbg-sparc64-cross, lib32stdc++6-4.7-dbg-sparc64-cross, lib32stdc++6-4.8-dbg-sparc64-cross, lib32stdc++6-4.9-dbg-sparc64-cross, lib32stdc++6-5-dbg-sparc64-cross, lib32stdc++6-6-dbg-sparc64-cross, lib32stdc++6-7-dbg-sparc64-cross, lib32stdc++6-8-dbg-sparc64-cross, lib32stdc++6-9-dbg-sparc64-cross, lib32stdc++6-dbg-sparc64-cross
+Filename: pool/universe/g/gcc-10-cross-ports/lib32stdc++6-10-dbg-sparc64-cross_10.3.0-1ubuntu1~20.04cross1_all.deb
+Size: 7321188
+MD5sum: 3d79157699d5d5b9a8218ea4cb593a93
+SHA1: 90b46fd90a2cb0744acd096677a303432bd6c598
+SHA256: 7586f1e4f21386d5c1e04ca3855c40867e949e3fdbfc5dd1764029384c34704b
+SHA512: 7d81a79afb49ca6c5bdb9470951d9fa2079fe71137ab7ceca0b415b5b5b99991cf9a16ca3818c9de9bffb97f9e7448ecb8801e3ff379e213c2d3e39f8905ac8b
+Homepage: http://gcc.gnu.org/
+Description: GNU Standard C++ Library v3 (debug build) (sparc64)
+Description-md5: 34f72c42d2a8cc980ba5b3df641c0cf3
+
+Package: lib32stdc++6-10-dbg-x32-cross
+Architecture: all
+Version: 10.2.0-5ubuntu1~20.04cross1
+Built-Using: gcc-10 (= 10.2.0-5ubuntu1~20.04)
+Priority: optional
+Section: universe/debug
+Source: gcc-10-cross-ports (5ubuntu2)
+Origin: Ubuntu
+Maintainer: Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian GCC Maintainers <debian-gcc@lists.debian.org>
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Installed-Size: 47489
+Provides: lib32stdc++6-dbg-x32-dcv1
+Depends: gcc-10-cross-base-ports (= 10.2.0-5ubuntu1~20.04cross1), lib32stdc++6-x32-cross (>= 10.2.0-5ubuntu1~20.04cross1), libstdc++-10-dev-x32-cross (= 10.2.0-5ubuntu1~20.04cross1), lib32gcc-s1-x32-cross (>= 4.2), libc6-i386-x32-cross (>= 2.31)
+Conflicts: lib32stdc++6-4.0-dbg-x32-cross, lib32stdc++6-4.1-dbg-x32-cross, lib32stdc++6-4.2-dbg-x32-cross, lib32stdc++6-4.3-dbg-x32-cross, lib32stdc++6-4.4-dbg-x32-cross, lib32stdc++6-4.5-dbg-x32-cross, lib32stdc++6-4.6-dbg-x32-cross, lib32stdc++6-4.7-dbg-x32-cross, lib32stdc++6-4.8-dbg-x32-cross, lib32stdc++6-4.9-dbg-x32-cross, lib32stdc++6-5-dbg-x32-cross, lib32stdc++6-6-dbg-x32-cross, lib32stdc++6-7-dbg-x32-cross, lib32stdc++6-8-dbg-x32-cross, lib32stdc++6-9-dbg-x32-cross, lib32stdc++6-dbg-x32-cross
+Filename: pool/universe/g/gcc-10-cross-ports/lib32stdc++6-10-dbg-x32-cross_10.2.0-5ubuntu1~20.04cross1_all.deb
+Size: 7238888
+MD5sum: 30279a24d6fbd6b43cb1aef1a9909d8f
+SHA1: 07f0a58c1154912d57925a4578beeba51b4c90f8
+SHA256: 1607516ba2820174ec22cef25b09c2e8e9839c13703fe6644b88c9a210dec544
+SHA512: d3ecef7b9ceb9ccf0517517a01d8e85f8e7826c89e18bb4907cb18d0e2a95c37f6a12281b4160d59f1fb10d3ac6c4ab86fdae413df151a96e45ab8d0ee5e8a0d
+Homepage: http://gcc.gnu.org/
+Description: GNU Standard C++ Library v3 (debug build) (x32)
+Description-md5: ba27cf8c6183b2ee9015ed672f7ebf42
+
+Package: lib32stdc++6-10-dbg-x32-cross
+Architecture: all
+Version: 10.3.0-1ubuntu1~20.04cross1
+Built-Using: gcc-10 (= 10.3.0-1ubuntu1~20.04)
+Priority: optional
+Section: universe/debug
+Source: gcc-10-cross-ports (5ubuntu3)
+Origin: Ubuntu
+Maintainer: Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian GCC Maintainers <debian-gcc@lists.debian.org>
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Installed-Size: 47487
+Provides: lib32stdc++6-dbg-x32-dcv1
+Depends: gcc-10-cross-base-ports (= 10.3.0-1ubuntu1~20.04cross1), lib32stdc++6-x32-cross (>= 10.3.0-1ubuntu1~20.04cross1), libstdc++-10-dev-x32-cross (= 10.3.0-1ubuntu1~20.04cross1), lib32gcc-s1-x32-cross (>= 4.2), libc6-i386-x32-cross (>= 2.31)
+Conflicts: lib32stdc++6-4.0-dbg-x32-cross, lib32stdc++6-4.1-dbg-x32-cross, lib32stdc++6-4.2-dbg-x32-cross, lib32stdc++6-4.3-dbg-x32-cross, lib32stdc++6-4.4-dbg-x32-cross, lib32stdc++6-4.5-dbg-x32-cross, lib32stdc++6-4.6-dbg-x32-cross, lib32stdc++6-4.7-dbg-x32-cross, lib32stdc++6-4.8-dbg-x32-cross, lib32stdc++6-4.9-dbg-x32-cross, lib32stdc++6-5-dbg-x32-cross, lib32stdc++6-6-dbg-x32-cross, lib32stdc++6-7-dbg-x32-cross, lib32stdc++6-8-dbg-x32-cross, lib32stdc++6-9-dbg-x32-cross, lib32stdc++6-dbg-x32-cross
+Filename: pool/universe/g/gcc-10-cross-ports/lib32stdc++6-10-dbg-x32-cross_10.3.0-1ubuntu1~20.04cross1_all.deb
+Size: 7238216
+MD5sum: b959220af4a71ece9a51ee2825e2b38b
+SHA1: 92211f919a8e4a7160fdb87e0d45f89cc2d55edd
+SHA256: 371ff349c89cc7da10c1a76e81e6dad51faa3649cfbef076cdf4b3b310ea1b2e
+SHA512: bb25dc5f457a2d1fc23178808f1ae0411b144dcd7ea01202a5f54b156d37aaacd7ec494bcffd6e4a7db451688549d5195b134910e180611cbea7f487ccad8302
+Homepage: http://gcc.gnu.org/
+Description: GNU Standard C++ Library v3 (debug build) (x32)
+Description-md5: ba27cf8c6183b2ee9015ed672f7ebf42
+
+Package: lib32stdc++6-9-dbg
+Architecture: amd64
+Version: 9.3.0-17ubuntu1~20.04
+Priority: optional
+Section: universe/debug
+Source: gcc-9
+Origin: Ubuntu
+Maintainer: Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian GCC Maintainers <debian-gcc@lists.debian.org>
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Installed-Size: 49261
+Depends: gcc-9-base (= 9.3.0-17ubuntu1~20.04), lib32stdc++6 (>= 9.3.0-17ubuntu1~20.04), libstdc++-9-dev (= 9.3.0-17ubuntu1~20.04), lib32gcc-s1, libc6-i386 (>= 2.18)
+Conflicts: lib32stdc++6-4.0-dbg, lib32stdc++6-4.1-dbg, lib32stdc++6-4.2-dbg, lib32stdc++6-4.3-dbg, lib32stdc++6-4.4-dbg, lib32stdc++6-4.5-dbg, lib32stdc++6-4.6-dbg, lib32stdc++6-4.7-dbg, lib32stdc++6-4.8-dbg, lib32stdc++6-4.9-dbg, lib32stdc++6-5-dbg, lib32stdc++6-6-dbg, lib32stdc++6-7-dbg, lib32stdc++6-8-dbg, lib32stdc++6-dbg
+Filename: pool/universe/g/gcc-9/lib32stdc++6-9-dbg_9.3.0-17ubuntu1~20.04_amd64.deb
+Size: 7576568
+MD5sum: 52dc2efadb20fffca044889ddd2d5a4e
+SHA1: 5da8a32a96d2fa25db6af213d9dae583fd87ae3b
+SHA256: c2696e95bf066dee94b7aa62ffebe25bde892134cdf46743ba6f19088380c10c
+SHA512: 2551bb42e6953b2b6c05bf5af2b0fa2beb21fd3958122cca1feba0975ce57957ab26c4edea88353b71649986f94af11dfa68fcb5639458969c89165373d1dbc8
+Homepage: http://gcc.gnu.org/
+Description: GNU Standard C++ Library v3 (debug build)
+Description-md5: 2c454c0f0591e215b1f3b1791f3e7459
+
+Package: lib32stdc++6-amd64-cross
+Architecture: all
+Version: 10.3.0-1ubuntu1~20.04cross1
+Built-Using: gcc-10 (= 10.3.0-1ubuntu1~20.04)
+Priority: optional
+Section: universe/devel
+Source: gcc-10-cross (6ubuntu4)
+Origin: Ubuntu
+Maintainer: Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian GCC Maintainers <debian-gcc@lists.debian.org>
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Installed-Size: 1920
+Provides: lib32stdc++6-amd64-dcv1
+Depends: gcc-10-cross-base (>= 10.3.0-1ubuntu1~20.04), lib32gcc-s1-amd64-cross (>= 10.3.0-1ubuntu1~20.04cross1), libc6-i386-amd64-cross (>= 2.31)
+Filename: pool/universe/g/gcc-10-cross/lib32stdc++6-amd64-cross_10.3.0-1ubuntu1~20.04cross1_all.deb
+Size: 501532
+MD5sum: 03d17b445cffcbf6aad743ebaa6b9517
+SHA1: a3cc836624e3827832718d50c5c772fb9fc3d67a
+SHA256: b7b77968060427f2c712ecd5615b5a98fc3ce2b9c931688004837b1df532d645
+SHA512: fe6e6af283d9505bf02428a00c8096d4c1765ed5a0a8612ef9f1f9f74df9e1333942e01412b584aaef239c05af9a9b9493d7816cc69aa9d6add43b2ac869a145
+Homepage: http://gcc.gnu.org/
+Description: GNU Standard C++ Library v3 (32 bit Version)
+Description-md5: 1b5e6395f9e7f7813dfd2dc28c813319
+
+Package: lib32stdc++6-mips64-cross
+Architecture: all
+Version: 10.3.0-1ubuntu1~20.04cross1
+Built-Using: gcc-10 (= 10.3.0-1ubuntu1~20.04)
+Priority: extra
+Section: universe/devel
+Source: gcc-10-cross-mipsen (2+c1ubuntu1.2)
+Origin: Ubuntu
+Maintainer: Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian GCC Maintainers <debian-gcc@lists.debian.org>
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Installed-Size: 1996
+Provides: lib32stdc++6-mips64-dcv1
+Depends: gcc-10-cross-base-mipsen (= 10.3.0-1ubuntu1~20.04cross1), lib32gcc-s1-mips64-cross (>= 10.3.0-1ubuntu1~20.04cross1), libc6-mips32-mips64-cross (>= 2.30)
+Filename: pool/universe/g/gcc-10-cross-mipsen/lib32stdc++6-mips64-cross_10.3.0-1ubuntu1~20.04cross1_all.deb
+Size: 395404
+MD5sum: 56dd5edffe47314b08a93dd51a25c9e3
+SHA1: bd889f12354135ca8591d64a31ef039764e23bf4
+SHA256: 8cc4352fe0e1513ef20c213ac0c1004603641832879897ef38742a83a1d117a9
+SHA512: f710dff9d7eab9907c65fa7e9f6e395899b362620b3f8dee1b8154ebd095256cec343626e14ddd78f3e09b5b5f1ddbc9f4de7cb9d0b449313d69d0aa7591112b
+Homepage: http://gcc.gnu.org/
+Description: GNU Standard C++ Library v3 (32 bit Version)
+Description-md5: 26ef041dcd5376c600f1e848ffb811bf
+
+Package: lib32stdc++6-mips64el-cross
+Architecture: all
+Version: 10.3.0-1ubuntu1~20.04cross1
+Built-Using: gcc-10 (= 10.3.0-1ubuntu1~20.04)
+Priority: optional
+Section: universe/devel
+Source: gcc-10-cross-mipsen (2+c1ubuntu1.2)
+Origin: Ubuntu
+Maintainer: Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian GCC Maintainers <debian-gcc@lists.debian.org>
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Installed-Size: 1992
+Provides: lib32stdc++6-mips64el-dcv1
+Depends: gcc-10-cross-base-mipsen (= 10.3.0-1ubuntu1~20.04cross1), lib32gcc-s1-mips64el-cross (>= 10.3.0-1ubuntu1~20.04cross1), libc6-mips32-mips64el-cross (>= 2.30)
+Filename: pool/universe/g/gcc-10-cross-mipsen/lib32stdc++6-mips64el-cross_10.3.0-1ubuntu1~20.04cross1_all.deb
+Size: 404452
+MD5sum: a072e2f2c26e4ad942b179610f08e11a
+SHA1: f275217561585a91ba16f7a70c926b88b4dc33e3
+SHA256: da327b18a94eb21ece70608f5d768e4412aaaaeea1663dae7ea2dd27747c44e0
+SHA512: 7c01291293284b4be9f763ccafc884bed5a98ea0184b6fecb7016564732dc62966cb76866b5638a6b3901dc0939cb5159365c414aad44f3f9e7e0192557d839a
+Homepage: http://gcc.gnu.org/
+Description: GNU Standard C++ Library v3 (32 bit Version)
+Description-md5: 0180a2994314dc6d2114c3e21d5fed4b
+
+Package: lib32stdc++6-mips64r6-cross
+Architecture: all
+Version: 10.3.0-1ubuntu1~20.04cross1
+Built-Using: gcc-10 (= 10.3.0-1ubuntu1~20.04)
+Priority: optional
+Section: universe/devel
+Source: gcc-10-cross-mipsen (2+c1ubuntu1.2)
+Origin: Ubuntu
+Maintainer: Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian GCC Maintainers <debian-gcc@lists.debian.org>
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Installed-Size: 1952
+Provides: lib32stdc++6-mips64r6-dcv1
+Depends: gcc-10-cross-base-mipsen (= 10.3.0-1ubuntu1~20.04cross1), lib32gcc-s1-mips64r6-cross (>= 10.3.0-1ubuntu1~20.04cross1), libc6-mips32-mips64r6-cross (>= 2.30)
+Filename: pool/universe/g/gcc-10-cross-mipsen/lib32stdc++6-mips64r6-cross_10.3.0-1ubuntu1~20.04cross1_all.deb
+Size: 387320
+MD5sum: 17bec62f5faddce679c92d9729ecf772
+SHA1: d721317890d6db3a26e48719e50ccfa8b735b914
+SHA256: c7ee7ae5039f6f8a62cc5032473570aff04f4a3f754541c125201b5aa1c6afae
+SHA512: 24bb35d4fa239e8bbfe8580676827ea7749cbc700f61cce383ea955a0547800fa5eb7916b3f81e518b11e681c6b593e1d482c1bd0d2aaed57d820973c4d477e6
+Homepage: http://gcc.gnu.org/
+Description: GNU Standard C++ Library v3 (32 bit Version)
+Description-md5: adfebc8876523eecb7d5d644a3235e5c
+
+Package: lib32stdc++6-mips64r6el-cross
+Architecture: all
+Version: 10.3.0-1ubuntu1~20.04cross1
+Built-Using: gcc-10 (= 10.3.0-1ubuntu1~20.04)
+Priority: optional
+Section: universe/devel
+Source: gcc-10-cross-mipsen (2+c1ubuntu1.2)
+Origin: Ubuntu
+Maintainer: Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian GCC Maintainers <debian-gcc@lists.debian.org>
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Installed-Size: 1952
+Provides: lib32stdc++6-mips64r6el-dcv1
+Depends: gcc-10-cross-base-mipsen (= 10.3.0-1ubuntu1~20.04cross1), lib32gcc-s1-mips64r6el-cross (>= 10.3.0-1ubuntu1~20.04cross1), libc6-mips32-mips64r6el-cross (>= 2.30)
+Filename: pool/universe/g/gcc-10-cross-mipsen/lib32stdc++6-mips64r6el-cross_10.3.0-1ubuntu1~20.04cross1_all.deb
+Size: 395780
+MD5sum: 05f4c2f37fd7bc534b7bb89d6d5cd4ca
+SHA1: 85f2490f861373b72544d49ac4aeb709a679c6a8
+SHA256: 9ea6fe6fef1107a47ee6b7ca91075b7e4702bd8f89a1d9b333fb20f06c665f2e
+SHA512: 98b47edfa97e3963ed1c6c536f7267825451944a1467305b25514b062a1395336bbcee2870b366817aa5f662e9668a6f924b93f42773fc8741794833aff86c1b
+Homepage: http://gcc.gnu.org/
+Description: GNU Standard C++ Library v3 (32 bit Version)
+Description-md5: 1953c0f3d0175e04d3b98dfa1cf3bec1
+
+Package: lib32stdc++6-ppc64-cross
+Architecture: all
+Version: 10.2.0-5ubuntu1~20.04cross1
+Built-Using: gcc-10 (= 10.2.0-5ubuntu1~20.04)
+Priority: extra
+Section: universe/devel
+Source: gcc-10-cross-ports (5ubuntu2)
+Origin: Ubuntu
+Maintainer: Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian GCC Maintainers <debian-gcc@lists.debian.org>
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Installed-Size: 2331
+Provides: lib32stdc++6-ppc64-dcv1
+Depends: gcc-10-cross-base-ports (= 10.2.0-5ubuntu1~20.04cross1), lib32gcc-s1-ppc64-cross (>= 10.2.0-5ubuntu1~20.04cross1), libc6-powerpc-ppc64-cross (>= 2.31)
+Filename: pool/universe/g/gcc-10-cross-ports/lib32stdc++6-ppc64-cross_10.2.0-5ubuntu1~20.04cross1_all.deb
+Size: 485696
+MD5sum: 019984f15fda3733aef2963ada44061a
+SHA1: c28a7a552073d6d632e0abfce07d75894660cd90
+SHA256: e535c8c85efef019c361f02e1a022a2e812451fb3bf7b809c755d6fedcd1c280
+SHA512: 4bafc43bf815bffec69de166b654b5e5f94c37151340fc42725338f52bc3649e03c8af1eb45778f4422a64f94e932cce630cd1803442b00924a6f800f299f68b
+Homepage: http://gcc.gnu.org/
+Description: GNU Standard C++ Library v3 (32 bit Version)
+Description-md5: 2c9085c5f49471b6573f07e929023d93
+
+Package: lib32stdc++6-ppc64-cross
+Architecture: all
+Version: 10.3.0-1ubuntu1~20.04cross1
+Built-Using: gcc-10 (= 10.3.0-1ubuntu1~20.04)
+Priority: extra
+Section: universe/devel
+Source: gcc-10-cross-ports (5ubuntu3)
+Origin: Ubuntu
+Maintainer: Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian GCC Maintainers <debian-gcc@lists.debian.org>
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Installed-Size: 2331
+Provides: lib32stdc++6-ppc64-dcv1
+Depends: gcc-10-cross-base-ports (= 10.3.0-1ubuntu1~20.04cross1), lib32gcc-s1-ppc64-cross (>= 10.3.0-1ubuntu1~20.04cross1), libc6-powerpc-ppc64-cross (>= 2.31)
+Filename: pool/universe/g/gcc-10-cross-ports/lib32stdc++6-ppc64-cross_10.3.0-1ubuntu1~20.04cross1_all.deb
+Size: 486932
+MD5sum: 146c034fb49a8dde0e22442eb83a465b
+SHA1: 6f2c52894fb6395d692395ed366bb65f77cc5779
+SHA256: 4ad4edeb975b6503c735f1e3429cfa95f3d2692f697c989b2cc8ea72c17057d9
+SHA512: 06494dbe922ab004b6c96b6cd2f1814d4637f22d4693d92d850f4cefdc79d4ddc3eb63066454882059c15a0a15a6bcf1f9f07e5b31cd7b5df2aaa85bc4c4c788
+Homepage: http://gcc.gnu.org/
+Description: GNU Standard C++ Library v3 (32 bit Version)
+Description-md5: 2c9085c5f49471b6573f07e929023d93
+
+Package: lib32stdc++6-s390x-cross
+Architecture: all
+Version: 10.3.0-1ubuntu1~20.04cross1
+Built-Using: gcc-10 (= 10.3.0-1ubuntu1~20.04)
+Priority: extra
+Section: universe/devel
+Source: gcc-10-cross (6ubuntu4)
+Origin: Ubuntu
+Maintainer: Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian GCC Maintainers <debian-gcc@lists.debian.org>
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Installed-Size: 1879
+Provides: lib32stdc++6-s390x-dcv1
+Depends: gcc-10-cross-base (>= 10.3.0-1ubuntu1~20.04), lib32gcc-s1-s390x-cross (>= 10.3.0-1ubuntu1~20.04cross1), libc6-s390-s390x-cross (>= 2.31)
+Filename: pool/universe/g/gcc-10-cross/lib32stdc++6-s390x-cross_10.3.0-1ubuntu1~20.04cross1_all.deb
+Size: 449796
+MD5sum: 53cf3930685698c93d64d432d46b00ea
+SHA1: 3efdfc3e0bb0214fbec037ddce5e0f4089f78ede
+SHA256: 426d9b2fb30d9248ce0f9ad638e9c66d89b51779c8f57418f66860224816f389
+SHA512: b652818d6

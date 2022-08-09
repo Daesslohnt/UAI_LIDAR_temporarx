@@ -1,0 +1,67 @@
+ls.
+
+Package: linux-headers-5.13.0-1012-oem
+Description-md5: 9e8331ed4d64f2ea97cf96f93bc140f8
+Description-en: Linux kernel headers for version 5.13.0 on 64 bit x86 SMP
+ This package provides kernel header files for version 5.13.0 on
+ 64 bit x86 SMP.
+ .
+ This is for sites that want the latest kernel headers.  Please read
+ /usr/share/doc/linux-headers-5.13.0-1012/debian.README.gz for details.
+
+Package: linux-headers-5.13.0-1014-oem
+Description-md5: d9596e649eef4b429413d0c0d956fff4
+Description-en: Linux kernel headers for version 5.13.0 on 64 bit x86 SMP
+ This package provides kernel header files for version 5.13.0 on
+ 64 bit x86 SMP.
+ .
+ This is for sites that want the latest kernel headers.  Please read
+ /usr/share/doc/linux-headers-5.13.0-1014/debian.README.gz for details.
+
+Package: linux-headers-5.13.0-1017-oem
+Description-md5: c0e62b34ef14150252e926536328789a
+Description-en: Linux kernel headers for version 5.13.0 on 64 bit x86 SMP
+ This package provides kernel header files for version 5.13.0 on
+ 64 bit x86 SMP.
+ .
+ This is for sites that want the latest kernel headers.  Please read
+ /usr/share/doc/linux-headers-5.13.0-1017/debian.README.gz for details.
+
+Package: linux-headers-5.13.0-1019-oem
+Description-md5: 7210a30158e23c88311f49db87ab9b5a
+Description-en: Linux kernel headers for version 5.13.0 on 64 bit x86 SMP
+ This package provides kernel header files for version 5.13.0 on
+ 64 bit x86 SMP.
+ .
+ This is for sites that want the latest kernel headers.  Please read
+ /usr/share/doc/linux-headers-5.13.0-1019/debian.README.gz for details.
+
+Package: linux-headers-5.13.0-1020-oem
+Description-md5: fcdd9cbdb10f0469218977fb69f15333
+Description-en: Linux kernel headers for version 5.13.0 on 64 bit x86 SMP
+ This package provides kernel header files for version 5.13.0 on
+ 64 bit x86 SMP.
+ .
+ This is for sites that want the latest kernel headers.  Please read
+ /usr/share/doc/linux-headers-5.13.0-1020/debian.README.gz for details.
+
+Package: linux-headers-5.13.0-21-generic
+Description-md5: 86fa1a291df71928dd24dd945bd4b4c8
+Description-en: Linux kernel headers for version 5.13.0 on 64 bit x86 SMP
+ This package provides kernel header files for version 5.13.0 on
+ 64 bit x86 SMP.
+ .
+ This is for sites that want the latest kernel headers.  Please read
+ /usr/share/doc/linux-headers-5.13.0-21/debian.README.gz for details.
+
+Package: linux-headers-5.13.0-21-lowlatency
+Description-md5: 86fa1a291df71928dd24dd945bd4b4c8
+Description-en: Linux kernel headers for version 5.13.0 on 64 bit x86 SMP
+ This package provides kernel header files for version 5.13.0 on
+ 64 bit x86 SMP.
+ .
+ This is for sites that want the latest kernel headers.  Please read
+ /usr/share/doc/linux-headers-5.13.0-21/debian.README.gz for details.
+
+Package: linux-headers-5.13.0-22-generic
+Description-md5: 2fec0a
